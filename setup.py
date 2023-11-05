@@ -8,8 +8,6 @@ setup(
     author='py-pi1',
     author_email='arshsayyed8999@gmail.com',
     description='A brief description of your library',
-    long_description=long_description,
-    long_description_content_type="text/markdown",
     url='https://github.com/py-pi1/pyplot.matplotlib',
     packages=find_packages(),
     classifiers=[
